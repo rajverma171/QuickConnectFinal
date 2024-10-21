@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858904528148",
+    "project_id": "quickconnect-39bbd",
+    "storage_bucket": "quickconnect-39bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858904528148:android:49c4a9ae8c31ffac84ee01",
+        "android_client_info": {
+          "package_name": "com.prodev.quickconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858904528148-8du0cj3gcpqp8ri1fai5bhfa084nkhu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prodev.quickconnect",
+            "certificate_hash": "c76b2812ef5e48ce1e960cb874d8bace9aa1ed95"
+          }
+        },
+        {
+          "client_id": "858904528148-3cpep4pdul2f6rok034421vj8g76tqhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOHS0SkXIsFG0i7BNJJMFawi06wJaQqEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858904528148-3cpep4pdul2f6rok034421vj8g76tqhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

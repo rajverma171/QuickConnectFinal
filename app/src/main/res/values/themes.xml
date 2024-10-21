@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuickConnect" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+
+<!--bottom naviagation -->
+    <style name="CustomBottomNav" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <!-- Background color -->
+        <item name="android:background">@color/gray200</item>
+
+
+        <!-- Item icon tint color -->
+        <item name="itemIconTint">@color/navigation_active_non_active_color</item>
+
+        <!-- Item text color -->
+        <item name="itemTextColor">@color/navigation_active_non_active_color</item>
+
+        <!-- Elevation for shadow effect -->
+        <item name="android:elevation">8dp</item>
+
+        <!-- Height of BottomNavigationView -->
+        <item name="android:layout_height">72dp</item>
+    </style>
+
+    <style name="Theme.QuickConnect" parent="Base.Theme.QuickConnect" />
+</resources>
